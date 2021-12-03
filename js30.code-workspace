@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "01/DrumKit",
+      "path": "01 - JavaScript Drum Kit/"
+    },
+    {
+      "name": "02/Clock",
+      "path": "02 - JS and CSS Clock/"
+    },
+    {
+      "name": "03/CSS_Variables",
+      "path": "03 - CSS Variables/"
+    },
+    {
+      "name": "04/Array_Cardio_1",
+      "path": "04 - Array Cardio Day 1/"
+    },
+    {
+      "name": "05/Flex",
+      "path": "05 - Flex Panel Gallery/"
+    }
+  ],
+  "settings": {
+    "terminal.integrated.fontSize": 14
+  }
+}

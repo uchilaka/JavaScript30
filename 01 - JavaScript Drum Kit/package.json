@@ -1,0 +1,16 @@
+{
+  "name": "@uchejs30/01-drumkit",
+  "version": "1.0.0",
+  "description": "JS 30 Drum-Kit",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uche Chilaka <uche@lar.city>",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.34",
+    "serve": "^13.0.2"
+  }
+}

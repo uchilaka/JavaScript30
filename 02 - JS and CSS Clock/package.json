@@ -1,0 +1,16 @@
+{
+  "name": "@uchejs30/02-clock",
+  "version": "1.0.0",
+  "description": "A JS clock",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uche Chilaka <uche@lar.city>",
+  "license": "MIT",
+  "devDependencies": {
+    "mime-types": "^2.1.34",
+    "serve": "^13.0.2"
+  }
+}
